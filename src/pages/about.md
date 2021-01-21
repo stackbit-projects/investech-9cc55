@@ -1,7 +1,7 @@
 ---
 title: Mi cartera
 subtitle: This is a short page about me and my work
-img_path: images/logo_secondary.png
+img_path: images/6.jpg
 template: page
 ---
 
