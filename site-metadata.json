@@ -70,17 +70,7 @@
     },
     "footer": {
         "content": "",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "Stackbit Fjord Theme"
 }
