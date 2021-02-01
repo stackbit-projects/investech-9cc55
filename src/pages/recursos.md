@@ -55,3 +55,4 @@ La línea azul es el DIX, cuando su media de los últimos días es elevada (>45%
 
 Si la media del DIX es baja, indica que las manos fuertes venden, y probablemente existirá una corrección.
 
+![](/images/dark_pools.png)
