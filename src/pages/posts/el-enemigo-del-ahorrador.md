@@ -36,3 +36,5 @@ Nuestros padres y nuestros abuelos sólo tenían dos formas de protegerse de la 
 *   Invertir en oro, pese a tener un componente especulativo.
 
 Hoy en día que estamos en el mundo digital cualquiera tiene acceso a miles de plataformas que nos permiten protegernos de la inflación, tenemos acceso a fondos de renta fija, fondos de renta variable, acciones, y lo mejor de todo ello que podemos empezar con menos de esos 1000 euros ahorrados que comentaba al principio.
+
+![](/images/dark_pools.png)
