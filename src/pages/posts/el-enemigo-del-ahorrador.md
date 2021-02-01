@@ -27,12 +27,10 @@ Si la inflación es del 2.5% una persona que tenga 1.000 € ahorrados, necesita
 
 ## ¿Qué podemos hacer para protegernos de la inflación?
 
-Nuestros padres y nuestros abuelos sólo tenían dos formas de protegerse de la inflación:
+Nuestros padres y nuestros abuelos sólo conocían dos formas de protegerse de la inflación:
 
 *   Comprar un activo inmobiliario o una vivienda.
 
 *   Poner el dinero en un depósito a plazo fijo (prácticamente desaparecido a día de hoy)
 
-*   Invertir en oro, pese a tener un componente especulativo.
-
-Hoy en día que estamos en el mundo digital cualquiera tiene acceso a miles de plataformas que nos permiten protegernos de la inflación, tenemos acceso a fondos de renta fija, fondos de renta variable, acciones, y lo mejor de todo ello que podemos empezar con menos de esos 1000 euros ahorrados que comentaba al principio.
+Hoy en día, que estamos en el mundo digital, cualquiera tiene acceso a miles de plataformas que nos permiten protegernos de la inflación, tenemos acceso a fondos de renta fija, fondos de renta variable, acciones, y lo mejor de todo ello que podemos empezar con menos de esos 1000 euros ahorrados que comentaba al principio.
