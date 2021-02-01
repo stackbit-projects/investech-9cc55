@@ -1,0 +1,57 @@
+{
+    "palette": "yellow",
+    "header": {
+        "title": "Fjord",
+        "tagline": "La inversión desde el punto de vista de un apasionado de la tecnología.",
+        "logo_img": "images/logo_secondary.png",
+        "logo_img_alt": "Fjord Logo",
+        "background_img": "images/6.jpg",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Lecturas recomendadas",
+                "url": "lecturas-recomendadas",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Mi cartera",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Recursos",
+                "url": "/recursos",
+                "style": "link"
+            },
+            {
+                "label": "Contacto",
+                "url": "/contact",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "",
+        "links": []
+    },
+    "title": "Un paso por delante"
+}
