@@ -11,21 +11,19 @@ hide_header: false
 template: post
 content_img_path: images/9.jpg
 ---
-## Embrace the change
+## Acoge los cambios
 
 Tienes que estudiar mucho, encontrar un buen empleo y no tendrás que preocuparte de tu jubilación y, por cierto, cómprate un buen coche y una buena casa.
 
-Esta es la típica frase que resume, en parte, la idea que tienes cuando acabas la educación secundaria del plan de vida que tienes.
+Esta es la típica frase que resume, en parte, la idea que tienes cuando acabas la educación secundaria del plan de vida que tienes preparado.
 
-Es una clara falacia narrativa, si bien "estudiar mucho" (más bien aprender y reflexionar de todo lo máximo posible) te da más probabilidades de encontrar un buen trabajo, ¿es inequívocamente cierto que no deberás preocuparte de jubilación? ¿realmente necesitas comprarte un coche y una buena casa?
+Es una clara falacia narrativa, si bien "estudiar mucho" (más bien aprender y reflexionar de todo lo posible) te da más probabilidades de encontrar un buen trabajo, ¿es inequívocamente cierto que no deberás preocuparte de jubilación? ¿realmente necesitas comprarte un coche y una buena casa?
 
-El mundo evoluciona a una velocidad increíble, hay que tener la mente abierta y adaptarse a los cambios.
+Pienso que el mundo evoluciona a una velocidad increíble y que hay que tener la mente abierta y adaptarse a los cambios.
 
 Tener flexibilidad respecto a los cambios es uno de los principios de la metodología Agile de gestión de proyectos, pero (¡no me matéis!) en mi opinión se puede extrapolar a casi todas las cosas.
 
 Ante un cambio puedes ser proactivo o reactivo, los primeros siempre tienen más ventaja que los últimos. Pienso que hay que ir un paso por delante, ¿y tú?
-
-##
 
 ## Un paso por delante
 
