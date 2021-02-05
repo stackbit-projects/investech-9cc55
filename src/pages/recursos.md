@@ -8,9 +8,7 @@ img_path: images/6.jpg
 ## Foros de inversión
 
 *   [ForoMasDividendos.com](https://foro.masdividendos.com/) en especial el hilo de [D51 Global TeForras Portfolio](https://foro.masdividendos.com/t/d51-global-teforras-portfolio/1156)
-
 *   [Inverforo](https://www.forocoches.com/foro/forumdisplay.php?f=57) (forocoches) aunque hay demasiada orientación hacia intradía para mi gusto.
-
 *   [Rankia](https://www.rankia.com/)
 
 ##
@@ -51,8 +49,8 @@ Si te registras desde [este enlace](https://www.degiro.es/amigo-invita-amigo/emp
 
 Te permite ver el volumen comprador/vendedor en los mercados oscuros del SP500.
 
-La línea azul es el DIX, cuando su media de los últimos días es elevada (>45%) indica saldo comprador, las manos fuertes compran y puede ser un buen punto de entrada a medio plazo (o puede que estén equivocadas).
+La línea azul es el DIX, cuando su media de los últimos días es elevada indica saldo comprador, las manos fuertes compran y puede ser un buen punto de entrada a medio plazo (o puede que estén equivocadas).
 
-Si la media del DIX es baja, indica que las manos fuertes venden, y probablemente existirá una corrección.
+Si la media del DIX es baja, indica que las manos fuertes venden, y probablemente existirá una corrección, pero **donde realmente funciona bien es para detectar impulso comprador**.
 
 ![](/images/dark_pools.png)
