@@ -31,7 +31,7 @@ Mi situación a 1 de enero de 2021 es la que se detalla a continuación.
 ## Fondos de inversión
 ##### Vanguard Global Stock Index (IE0031786142)
 
-Realizo una estrategia DCA de gestión pasiva. Mi intención es que consiga ser el 60% de mi cartera de inversiones, actualmente aún ha llegado a tal porcentaje.
+Realizo una estrategia [DCA de gestión pasiva](/antes-de-invertir). Mi intención es que consiga ser el 60% de mi cartera de inversiones, actualmente aún ha llegado a tal porcentaje.
 
 ##### Vanguard Emerging Markets Stock Index (IE0031786142)
 

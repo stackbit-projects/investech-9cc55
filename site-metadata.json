@@ -4,7 +4,7 @@
         "title": "Fjord",
         "tagline": "La inversión desde el punto de vista de un apasionado de la tecnología.",
         "logo_img": "images/logo_secondary.png",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "UnPasoPorDelante Logo",
         "background_img": "images/6.jpg",
         "has_nav": true,
         "nav_links": [
@@ -24,7 +24,7 @@
             },
             {
                 "label": "Mi cartera",
-                "url": "/about",
+                "url": "/mi-cartera",
                 "style": "link"
             },
             {

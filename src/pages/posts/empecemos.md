@@ -1,8 +1,8 @@
 ---
 title: ¡Empecemos!
 subtitle: ¡Hoy empezamos!
-date: '2020-01-22'
-thumb_img_alt: lorem-ipsum
+date: '2021-01-22'
+thumb_img_alt: empezamos
 excerpt: >-
   Tienes que estudiar mucho, encontrar un buen empleo y no tendrás que
   preocuparte de tu jubilación y, por cierto, cómprate un buen coche y una buena

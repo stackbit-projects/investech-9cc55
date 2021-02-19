@@ -2,7 +2,7 @@
 title: El enemigo del ahorrador
 subtitle: ¿Qué es la inflación y por qué es nuestro peor enemigo?
 date: '2021-02-01'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: inflación
 excerpt: >-
   Descubriremos cuál es el peor enemigo del ahorrador y cómo nos podemos
   proteger.
@@ -11,9 +11,9 @@ template: post
 ---
 ## Conociendo a nuestro enemigo
 
-Inconscientemente nos damos cuenta que las cosas de nuestro día a día son cada vez más caras.
+Inconscientemente nos damos cuenta de que las cosas de nuestro día a día son cada vez más caras.
 
-Algunos recordamos cuando hace una década una cerveza nos costaba 1,20€ y a día de hoy, la misma cerveza en el mismo sitio cuesta 1,90€.
+Algunos recordamos cuando hace una década una cerveza nos costaba 1,20 € y a día de hoy, la misma cerveza en el mismo sitio cuesta 1,90 €.
 
 ### ¿Qué ha pasado?
 
