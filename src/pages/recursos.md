@@ -19,15 +19,13 @@ Utilizo dos brókers, uno para acciones españolas y otro para acciones extranje
 
 ### Bróker español: Selfbank
 
-Para las acciones españolas utilizo SelfBank, es el único banco español que conozco junto con ING que tenga comisiones ajustadas. Al ser un banco podemos tener funcionalidades que no nos permiten los brókers normales, como por ejemplo poder tener cuenta corriente con tarjeta, dar acceso a personas como autorizados, etc. Me decanté por este bróker porque las acciones españolas están a tu nombre y, además de proporcionar más seguridad, te permite una serie de beneficios como la asistencia a las juntas de accionistas de forma gratuita.
-
-Si os queréis abrir una cuenta en este banco me podéis contactar y os daré más información sobre los tipos de cuenta de bolsa que tiene y diferencias entre estas (me llevó un tiempo decantarme).
+~~Para las acciones españolas utilizo SelfBank, es el único banco español que conozco junto con ING que tenga comisiones ajustadas. Al ser un banco podemos tener funcionalidades que no nos permiten los brókers normales, como por ejemplo poder tener cuenta corriente con tarjeta, dar acceso a personas como autorizados, etc. Me decanté por este bróker porque las acciones españolas están a tu nombre y, además de proporcionar más seguridad, te permite una serie de beneficios como la asistencia a las juntas de accionistas de forma gratuita.~~
 
 También me han hablado bien de ING y del bróker ClickTrade.
 
 ### Bróker acciones extranjeras: DeGiro
 
-Aquí el bróker indescutible por seguridad y con comisiones más bajas es DeGiro, te lo pongo fácil, no busques más a no ser que tengas más de 100.000 € (Interactive Brokers).
+Aquí el bróker indescutible por seguridad y con comisiones más bajas es DeGiro, te lo pongo fácil, no busques más a no ser que tengas más de unos 15.000 € que puedes tener en cuenta Interactive Brokers.
 
 DEGIRO es un bróker online low cost que forma parte de Flatex, con licencia bancaria alemana. También está registrado en la CNMV.
 
